@@ -1,0 +1,8 @@
+# Core Dependencies
+dnspython==2.4.2      # DNS toolkit for Python (MX record validation)
+email-validator==2.1.0.post1  # Robust email syntax validation
+faker==25.2.0         # Fake data generation for usernames
+
+# Optional (for enhanced features)
+python-dateutil==2.9.0.post0  # Advanced date handling
+pyyaml==6.0.1         # Config file support (if using YAML configs)
