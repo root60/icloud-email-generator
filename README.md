@@ -5,7 +5,7 @@
 
 A Python utility for generating and validating iCloud email addresses with GUI support.
 
-![GUI Screenshot](screenshot.png)
+![GUI Screenshot](screenshot.PNG)
 
 ## ✨ Features
 - **Realistic Generation**  
