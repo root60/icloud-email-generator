@@ -32,3 +32,7 @@ pip install -r requirements.txt
 
 # Linux users may need:
 sudo apt-get install python3-tk
+
+# Run
+python icloud.py
+
